@@ -4,7 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-- My name is Shrishailan Srinidhi. I am on a mission to protect digital world bit by bit. In course of my mission I have helped companies in Vulnerability management by   identifying vulnerabilities present in both On-Prem and cloud envirnment.
+My name is Shrishailan Srinidhi. I am on a mission to protect digital world bit by bit. 
+- In course of my mission I have helped companies in Vulnerability management by   identifying vulnerabilities present in both On-Prem and cloud envirnment.
 - Implemented various security tools like SIEM, EDR and DLP protection.
 
 
